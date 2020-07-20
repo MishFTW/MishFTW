@@ -6,4 +6,4 @@ I consider myself an engineer by training, technologist by profession, and vison
 - 😄 I'm a big fan of good Agile process, clean code and modern tech stacks
 - 🌱 I’m currently learning more about cloud networking & GraphQL
 - 💬 I'm currently available for consulting work - more info on my [website](https://mish.one)
-- 📫 How to reach me: [email](mailto:mishra.adarash@gmail.com) or [LinkedIn](https://linkedin.com/in/mish )preferred
+- 📫 How to reach me: [email](mailto:mishra.adarash@gmail.com) or [LinkedIn](https://linkedin.com/in/mish) is preferred
