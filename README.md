@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I am Mish 👋</h1>
+<img src="https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-brightgreen?style=flat" alt="Pronouns are he/him/his" />
+
 <hr />
-![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-brightgreen?style=flat)
 
 **I help early stage organizations understand and build their software or hardware products.**
 
@@ -18,5 +19,5 @@ Fun Facts:
 
 
 <p align="center">
-	<img style="margin-left:0;" src=https://github-readme-stats.vercel.app/api?username=mishftw&show_icons=true alt=GitHub stats /> 
+	<img style="margin-left:0;" src=https://github-readme-stats.vercel.app/api?username=mishftw&show_icons=true alt="GitHub stats" /> 
 </p>
