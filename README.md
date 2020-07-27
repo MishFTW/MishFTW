@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I am Mish 👋</h1>
 <hr />
-[![Website](https://img.shields.io/badge/-web-1ca0f1?style=flat&labelColor=1ca0f1&logo=web&logoColor=white&link=https://mish.one)](https://mish.one)
-[![Website](https://img.shields.io/badge/-web-1ca0f1?style=flat&labelColor=1ca0f1&logo=web&logoColor=white&link=https://mish.one)](https://mish.one)
-[![Website](https://img.shields.io/badge/-web-1ca0f1?style=flat&labelColor=1ca0f1&logo=web&logoColor=white&link=https://mish.one)](https://mish.one)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mishftw)](https://twitter.com/mishftw)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mish/)](https://linkedin.com/in/mish/)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-brightgreen?style=flat)
 
 **I help early stage organizations understand and build their software or hardware products.**
