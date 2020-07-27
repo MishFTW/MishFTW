@@ -5,9 +5,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mishftw)](https://twitter.com/mishftw)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mish/)](https://linkedin.com/in/mish/)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-brightgreen?style=flat-square)
-<hr />
 
-### I help early stage organizations understand and build their software or hardware products.**
+### I help early stage organizations understand and build their software or hardware products.
 
 - 🔭 I’m currently working on product & software for [Ulendo](https://ulendo.io)
 - 😄 I'm a big fan of good Agile process, clean code and modern tech stacks
