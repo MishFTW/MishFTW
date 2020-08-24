@@ -6,9 +6,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mish/)](https://linkedin.com/in/mish/)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-brightgreen?style=flat-square)
 
-### I help early stage organizations understand and build their software or hardware products.
+### I help organizations understand and build their software or hardware products.
 
-- 🔭 I’m currently working on product & software for [Ulendo](https://ulendo.io)
+- 🔭 I’m currently working on cloud & IoT software for [AutoPets](https://autopets.com)
 - 😄 I'm a big fan of good Agile process, clean code and modern tech stacks
 - 🌱 I’m currently learning more about cloud networking & GraphQL
 - 💬 I'm currently available for consulting work - more info on my [website](https://mish.one)
