@@ -8,7 +8,7 @@
 
 ### I help organizations understand and build their software or hardware products.
 
-- 🔭 I’m currently working on cloud & IoT software for [AutoPets](https://autopets.com)
+- 🔭 I’m currently working on cloud & IoT software for [Whisker](https://whisker.com)
 - 😄 I'm a big fan of good Agile process, clean code and modern tech stacks
 - 🌱 I’m currently learning more about cloud networking & GraphQL
 - 💬 I'm currently available for consulting work - more info on my [website](https://mish.one)
